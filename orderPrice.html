@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="AnyFood Landing Page">
+	<meta name="keywords" content="mix, Bootstrap, Landing page, Template, App, Mobile, iOS, Android">
+	<title>AnyFood</title>
+	<!-- Favicons AND TOUCH ICONS   -->
+	<link rel="icon" href="smalllogo.jpg">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+
+	<style>
+
+	.background{
+		background-image:url("food_wallpaper3.jpeg");
+		/* Set a specific height */
+		min-height: 600px;
+		/* Create the parallax scrolling effect */
+		background-attachment: fixed;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		opacity: 0.4;
+	}
+
+	.background2{
+		background-image:url("food_wallpaper2.jpeg");
+		/* Set a specific height */
+		min-height: 400px;
+		/* Create the parallax scrolling effect */
+		background-attachment: fixed;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		opacity: 0.2;
+	}
+
+	.header {
+		color:black;
+		font-size: 70px;
+		font-family: cursive;
+		top: 50%;
+		left: 0;
+		right: 0;
+		display: block;
+		position: absolute;
+	}
+
+	.myform{
+		background-image: url("food_wallpaper2.jpeg");
+	}
+
+	.logocontainer{
+		position:absolute;
+		top:0;
+		width: 100%;
+	}
+	.logo{
+		display:block;
+		margin: 0 auto;
+		height: 100px;
+	}
+	h1.serif {
+    font-family: "Times New Roman", Times, serif;
+	}
+
+	button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:0 auto;
+    border-radius: 50px;
+
+    position:relative;
+    top: 70%;
+    left: 41%;
+	}
+
+	.h4-1{
+		position: relative;
+		top:70%;
+		left:38%;
+		font-size: 30px;
+
+	}
+    .h4-2{
+		position: relative;
+		top:70%;
+		left:30%;
+		font-size: 30px;
+
+	}
+	.thirddiv{
+		height:200px;
+	}
+
+	.seconddiv{
+		height: 500px;
+	}
+</style>
+
+</head>
+<body>
+	<div class="firstdiv">
+		<div class="background">
+		</div>
+		<div class="logocontainer">
+			<img class="logo" src="logo.jpg" alt="logo">
+			<br>
+			<br>
+			<br>
+			<br>
+			<h4 id="price" class="h4-1"></h4>
+            <br>
+            <h4 id="eta" class="h4-2"></h4>
+			<br>
+			<br>
+			<br>
+				<a href="Thankyou.html"><button>Confirm Order</button></a>
+		</div>
+	</div>
+	<script data-main="foodFinder2.js" src="require.js"></script>
+</body>
+
+</html>
