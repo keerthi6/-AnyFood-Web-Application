@@ -6,6 +6,8 @@ _Always had problems deciding on what to eat? Your significant other gives you t
 
 * This was our project idea for Hack and Roll 2018, a hackathon organised by NUS School of Computing. We came up with a start up idea, where we wanted to solve the probem of people not being able to decide on the food they wanted to eat, especially when out with their friends. We wanted to capitalise on the surge in popularity of food delivery giants such as Deliveroo and Uber Eats. The idea was to develop a webapp for people where they would simply need to choose their dietary requirements and choose the type of food varitey they desired. We would then deliver the food to them and the best part is that the item would be a surprise!
 
+* _For more information visit:_ link:url[https://devpost.com/software/ft-anyfood]
+
 
 * Screenshots
 
