@@ -1,5 +1,10 @@
 = AnyFood Web Application
-Hackathon (Hack and Roll 2018)
+* Developed during Hack and Roll 2018 (Hackathon organised by NUS)
+* Inspiration 
+** Always had problems deciding on what to eat? Your significant other gives you the power of choice, but immediately rejects everything that you suggested? Anyfood is here for you.
+* We give the deliver a surprise meal to the user based on his or her selection from a set of predefined themes
 
+*Screenshots
 image::screenshots/Food_Categories.PNG[width="600"]
+
 image::screenshots/Website.PNG[width="600"]
