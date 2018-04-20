@@ -8,7 +8,7 @@
 
 * We give the deliver a surprise meal to the user based on his or her selection from a set of predefined themes
 
-*Screenshots
+* Screenshots
 
 image::screenshots/Food_Categories.PNG[width="600"]
 
